@@ -1,0 +1,21 @@
+{
+    "name": "ricpa/bienesraices_inicio_poo",
+    "description": "Creando un Proyecto con Programaci\u0000n Orientado a Objetos",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Ricpalo",
+            "email": "ricpalo001@gmail.com"
+        }
+    ],
+    "require": {
+        "intervention/image": "^2.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Model\\" : "./models",
+            "MVC\\" : "./",
+            "Controllers\\" : "./controllers"
+        }
+    }
+}
