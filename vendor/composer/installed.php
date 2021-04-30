@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '02596181763724fd62ddfd10adbfe00a28577d18',
+    'reference' => '5124c8a8eb07c05fb6e67749536e3f9f040d4c07',
     'name' => 'ricpa/bienesraices_inicio_poo',
   ),
   'versions' => 
@@ -31,12 +31,12 @@
     ),
     'phpmailer/phpmailer' => 
     array (
-      'pretty_version' => 'v6.4.0',
-      'version' => '6.4.0.0',
+      'pretty_version' => 'v6.4.1',
+      'version' => '6.4.1.0',
       'aliases' => 
       array (
       ),
-      'reference' => '050d430203105c27c30efd1dce7aa421ad882d01',
+      'reference' => '9256f12d8fb0cd0500f93b19e18c356906cbed3d',
     ),
     'psr/http-message' => 
     array (
@@ -70,7 +70,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '02596181763724fd62ddfd10adbfe00a28577d18',
+      'reference' => '5124c8a8eb07c05fb6e67749536e3f9f040d4c07',
     ),
   ),
 );
