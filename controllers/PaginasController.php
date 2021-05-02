@@ -94,9 +94,9 @@ class PaginasController{
             $mail->AltBody = 'Texto alternativo';
             
             if($mail->send()){
-                $mensaje = 'Mensaje enviado correctamente';
+                $mensaje = 'Mensaje Enviado Correctamente';
             } else{
-                $mensaje = 'El mensaje no pudo ser enviado';
+                $mensaje = 'El Mensaje No Pudo Ser Enviado';
             }
         }
 

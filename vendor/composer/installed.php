@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '5124c8a8eb07c05fb6e67749536e3f9f040d4c07',
+    'reference' => '0d726735f46a389af25f5191d8cb214482b3990e',
     'name' => 'ricpa/bienesraices_inicio_poo',
   ),
   'versions' => 
@@ -70,7 +70,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '5124c8a8eb07c05fb6e67749536e3f9f040d4c07',
+      'reference' => '0d726735f46a389af25f5191d8cb214482b3990e',
     ),
   ),
 );
